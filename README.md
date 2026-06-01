@@ -30,7 +30,7 @@ currently building products, experimenting with local llms and creating tools th
 
 educational vr platform.
 
-- 700,000₽ grant winner
+- $7000 grant winner
 - presented at national exhibitions
 - 500+ participants
 
