@@ -4,7 +4,7 @@
 
 <h1>Makar Kabanov</h1>
 
-<p><b>Product designer who ships.</b><br>
+<p><b>Product designer & UI/UX designer who ships.</b><br>
 I design the product and build it in real code: from research to the working screen.</p>
 
 <p>
@@ -117,16 +117,26 @@ the process documented so the product runs without me.
 | **Interface** | UI/UX · design systems · motion · prototyping |
 | **Code** | TypeScript · Lit · Vite · SwiftUI · Tauri · Docker · AI coding with Claude and Codex |
 | **Tools** | Figma · FigJam · Photoshop · After Effects · GitHub |
+| **Soft skills** | systems thinking · attention to detail · quick adaptation · independence · teamwork · communication |
 
 <br>
 
 ## Experience
 
-| | | |
-|---|---|---|
-| **Sber**, Nizhny Novgorod | Product designer | 2026 |
-| **Independent products** | Product designer, team lead | 2023 — now |
-| **Ayva** marketing studio | Designer | 2023 |
+**Sber** · Nizhny Novgorod — *Product designer* · 2026
+Designed and built an internal team product with gamification mechanics that raised engagement
+in tasks and shared goals.
+
+**Independent projects** — *Product designer, team lead* · 2023 — now
+- own and commercial digital products, from idea to working prototype
+- interface design and user scenarios
+- brand systems and visual concepts
+- hackathons and product research
+
+**Aiva** marketing studio — *Designer* · 2023
+- UI concepts and visuals for digital projects
+- presentations, interfaces and motion materials in Figma, Photoshop and After Effects
+- work from briefs, in a team
 
 ## Recognition
 
@@ -141,7 +151,10 @@ the process documented so the product runs without me.
 
 ## Education
 
-Volzhsky Polytechnic College — Advertising · 2025–2028
+| | |
+|---|---|
+| **Volzhsky Polytechnic College** — Advertising | 2025–2028 |
+| **School No. 24** named after Hero of Russia M. S. Apletalin | 2016–2025 |
 
 <br>
 
